@@ -1,5 +1,5 @@
 # Subject-wise Quiz Application
-
+# Python Quiz App
 ## About the Project
 
 This is a **Subject-wise Quiz Application** developed using **Python** with **Tkinter** for GUI and **MySQL** for database management. Users can select a subject (Python, Java, SQL, C), attempt MCQ quizzes, view their scores, generate certificates if eligible, and download all results into an Excel file.

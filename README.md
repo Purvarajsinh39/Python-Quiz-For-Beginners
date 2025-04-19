@@ -76,12 +76,6 @@ This project was developed by **Purvarajsinh** as a part of **college projects f
 
 ---
 
-## Screenshot (Optional)
-
-*(Add if you want to show UI in the README)*
-
----
-
 ## License
 
 This project is for educational purposes.

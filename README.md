@@ -29,6 +29,26 @@ This project was developed by **Purvarajsinh** as a part of **college projects f
 
 ---
 
+
+## 📷 Pictures Of Project
+### 1. 🏠 Home Screen
+![Home](images/HomeQuiz.png)
+
+### 2. ❓ Question Screen
+![Question](images/Question.png)
+
+### 3. ✅ Quiz Completed
+![Completed](images/Completed.png)
+
+### 4. 🏆 Certificate (Example)
+![Rohit Sharma_certificate](images/Rohit_Sharma_certificate.png)
+
+### 5. 📊 All Participant Scores
+![AllScore](images/AllScore.png)
+
+### 6. 📥 Excel Export
+![Excel](images/Excel.png)
+
 ## Setup Instructions
 
 1. **Install Python 3**
